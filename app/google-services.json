@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "631615836968",
+    "firebase_url": "https://inclass11-e65b0.firebaseio.com",
+    "project_id": "inclass11-e65b0",
+    "storage_bucket": "inclass11-e65b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631615836968:android:2b441a0c7f921c9d",
+        "android_client_info": {
+          "package_name": "com.group32.inclass11tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631615836968-2jhs97o80d59fv4gpgfh9jq3psnu2k43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwu8iuiAWEcy18eiBKOO40SeOVbeEJ9CI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
